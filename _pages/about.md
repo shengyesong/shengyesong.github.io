@@ -25,19 +25,23 @@ My research interest includes LLM system and distributed system！
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Journals
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Shengye Song**, Minxian Xu, Zuowei Zhang, Chengxi Gao, Fansong Zeng, Yu Ding, Kejiang Ye, Chengzhong Xu.  
+  **C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters**, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), under review, 2025, CCF A.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### Conferences
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Shengye Song**, Kan Hu, Minxian Xu, Wenxian Guo, Kejiang Ye.  
+  **TD3-Sched: Decentralized Edge-Aware Reinforcement Learning for Resource Scheduling in Cloud-Edge Collaborative Clusters**, PDCAT 2025, accepted, 2025.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Wanyi Zheng, Minxian Xu, **Shengye Song**, Kejiang Ye.  
+  **BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving**, Smart Data 2025, accepted, 2025.
+
+## Patents
+
+- **Shengye Song** (et al.).  
+  **An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium**, CN117349037B, accepted.
 
 # 🎖 Honors and Awards
 - *2025.8* First Prize in the CCF 2025 Digital Services Conference. 
