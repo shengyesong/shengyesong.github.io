@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengye's Homepage"
-description              : "a short  description to myself. "
+description              : "Studying for LLM system future!"
 repository               : "shengyesong/shengyesong.github.io.git"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengye Song(宋盛叶)"
   avatar           : "images/photo.png"
-  bio              : "Master Canditate @ SIAT&SUSTech"
+  bio              : "Master Canditate@SIAT"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
