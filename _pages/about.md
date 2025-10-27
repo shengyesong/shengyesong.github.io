@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Shengye Song, and I am currently pursuing my Master's degree in Computer Technology at SUSTech&SIAT,
+# 👋 About me
+I am **Shengye Song**, a **Master's Candidate** at [**SIAT**](https://www.siat.ac.cn/) and [**SUSTech**](https://www.sustech.edu.cn/), Guangdong, China. My research focuses on **cloud-edge collaborative systems**, **distributed reinforcement learning**, and **optimization of large-scale computing systems** with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am currently under the supervision of [**Prof. Minxian Xu**](https://www.minxianxu.info/) and [**Dr. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
 
 My research interest includes LLM system and distributed system！
 
@@ -25,31 +26,43 @@ My research interest includes LLM system and distributed system！
 
 # 📝 Publications 
 
-### Journals
 
-- **Shengye Song**, Minxian Xu, Zuowei Zhang, Chengxi Gao, Fansong Zeng, Yu Ding, Kejiang Ye, Chengzhong Xu.  
-  **C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters**, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), under review, 2025, CCF A.
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  PDCAT '25 &nbsp;</span>
+  *TD3-Sched: Decentralized Edge-Aware Reinforcement Learning for Resource Scheduling in Cloud-Edge Collaborative Clusters*. 📄 [**Paper**](https://arxiv.org/abs/2509.18957)  
+  - 👤 **Shengye Song**, Kan Hu, Minxian Xu, Wenxian Guo, Kejiang Ye
+</div>
 
-### Conferences
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  Smart Data '25 &nbsp;</span>
+  *BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving*. 📄 [**Paper**](https://arxiv.org/abs/2507.17120)
+  -  Wanyi Zheng, Minxian Xu, 👤 **Shengye Song**, Kejiang Ye
+</div>
 
-- **Shengye Song**, Kan Hu, Minxian Xu, Wenxian Guo, Kejiang Ye.  
-  **TD3-Sched: Decentralized Edge-Aware Reinforcement Learning for Resource Scheduling in Cloud-Edge Collaborative Clusters**, PDCAT 2025, accepted, 2025.
+#  Patents
+- **An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium**  
+  **Shengye Song** (et al.)  
+  *Patent No.: CN117349037B, accepted*  
 
-- Wanyi Zheng, Minxian Xu, **Shengye Song**, Kejiang Ye.  
-  **BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving**, Smart Data 2025, accepted, 2025.
 
-## Patents
+#  📰 Preprints
 
-- **Shengye Song** (et al.).  
-  **An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium**, CN117349037B, accepted.
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  Arxiv 25 &nbsp;</span>
+  *C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters*.  📄 [**Paper**](https://arxiv.org/abs/2507.18005)  
+  - 👤 **Shengye Song**, Minxian Xu, Zuowei Zhang, Chengxi Gao, Fansong Zeng, Yu Ding, Kejiang Ye, Chengzhong Xu
+</div>
 
 # 🎖 Honors and Awards
-- *2025.8* First Prize in the CCF 2025 Digital Services Conference. 
-
+- *2025.8* First Prize in the CCF 2025 Digital Services Conference.
+- 
 
 # 📖 Educations
-- *2023.09 - 2026.07 (now)*,Master's degree in Computer Technology at SUSTech and SIAT.
-- *2018.09 - 2022.06*, Bachelor's degree in Industrial Engineering from University of Electronic Science and Technology of China 
+- *2023.09 - (now)*, [**SUSTech**](https://www.sustech.edu.cn/)&[**SIAT**](https://www.siat.ac.cn/), China. Master's in Computer Technology, supervised by  [**Prof. Minxian Xu**](https://www.minxianxu.info/) and  [**Dr. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
+- *2018.09 - 2022.06*, [**UESTC**](https://www.uestc.edu.cn/), China. B.S. in Industrial Engineering.
 
 
 
