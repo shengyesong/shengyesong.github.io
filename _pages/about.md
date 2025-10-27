@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-I am **Shengye Song**, a **Master's Candidate** at [**SIAT**](https://www.siat.ac.cn/) and [**SUSTech**](https://www.sustech.edu.cn/), Guangdong, China. My research focuses on **cloud-edge collaborative systems**, **distributed reinforcement learning**, and **optimization of large-scale computing systems**<a href="https://scholar.google.com/citations?user=jK27xLQAAAAJ&hl=zh-CN">
+I am **Shengye Song**, a **Master's Candidate** at [**SIAT**](https://www.siat.ac.cn/) and [**SUSTech**](https://www.sustech.edu.cn/), Guangdong, China. My research focuses on **cloud-edge collaborative systems**, **distributed reinforcement learning**, and **optimization of large-scale computing systems** with total <a href="https://scholar.google.com/citations?user=jK27xLQAAAAJ&hl=zh-CN">
   <img src="https://img.shields.io/badge/Citations%20-1-blue">
-</a>I am currently under the supervision of [**Prof. Minxian Xu**](https://www.minxianxu.info/) and [**Prof. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
+</a>.I am currently under the supervision of [**Prof. Minxian Xu**](https://www.minxianxu.info/) and [**Prof. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
 
 My research interest includes LLM system and distributed system！
 
