@@ -71,5 +71,5 @@ My research interest includes LLM system and distributed system！
 
 - # 🌍 Visitors
 <div style="width: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=xfHZrCwVWeTUpPyh_V2GIKfmaVidU6pmDdDrefgq0yE&cl=ffffff&w=a"></script>
 </div>
