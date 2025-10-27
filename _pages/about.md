@@ -58,7 +58,7 @@ My research interest includes LLM system and distributed system！
 
 # 🎖 Honors and Awards
 - *2025.8* First Prize in the CCF 2025 Digital Services Conference.
-- 
+
 
 # 📖 Educations
 - *2023.09 - (now)*, [**SUSTech**](https://www.sustech.edu.cn/)&[**SIAT**](https://www.siat.ac.cn/), China. Master's in Computer Technology, supervised by  [**Prof. Minxian Xu**](https://www.minxianxu.info/) and  [**Dr. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
