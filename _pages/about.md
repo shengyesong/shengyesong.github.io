@@ -60,6 +60,7 @@ My research interest includes LLM system and distributed system！
 
 # 🎖 Honors and Awards
 - *2025.8* First Prize in the CCF 2025 Digital Services Conference.
+- *2025.11* SmartData 2025 Best paper.
 
 
 # 📖 Educations
