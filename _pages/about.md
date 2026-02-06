@@ -43,6 +43,12 @@ My research interest includes LLM system and distributed system！
   -  Wanyi Zheng, Minxian Xu, 👤 **Shengye Song**, Kejiang Ye
 </div>
 
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  SPE &nbsp;</span>
+  *C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters*.  📄 [**Paper**](https://arxiv.org/abs/2507.18005)  
+  - 👤 **Shengye Song**, Minxian Xu, Zuowei Zhang, Chengxi Gao, Fansong Zeng, Yu Ding, Kejiang Ye, Chengzhong Xu
+</div>d
 #  Patents
 - **An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium**  
   **Shengye Song** (et al.)  
@@ -51,12 +57,7 @@ My research interest includes LLM system and distributed system！
 
 #  📰 Preprints
 
-<div class='paper-box-text' markdown="1">
-- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
-  Arxiv 25 &nbsp;</span>
-  *C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters*.  📄 [**Paper**](https://arxiv.org/abs/2507.18005)  
-  - 👤 **Shengye Song**, Minxian Xu, Zuowei Zhang, Chengxi Gao, Fansong Zeng, Yu Ding, Kejiang Ye, Chengzhong Xu
-</div>
+
 
 # 🎖 Honors and Awards
 - *2025.8* First Prize in the CCF 2025 Digital Services Conference.
