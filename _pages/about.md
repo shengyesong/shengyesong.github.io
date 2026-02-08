@@ -44,11 +44,11 @@ My research interest includes LLM system and distributed system！
 </div>
 
 <div class='paper-box-text' markdown="1">
-- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+- <span style="background-color: green; color: white; font-size: 0.85em;">&nbsp;
   SPE &nbsp;</span>
-  *C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters*.  📄 [**Paper**](https://arxiv.org/abs/2507.18005)  
+  *C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters*, **CCF B.** 📄 [**Paper**](https://arxiv.org/abs/2507.18005)  
   - 👤 **Shengye Song**, Minxian Xu, Zuowei Zhang, Chengxi Gao, Fansong Zeng, Yu Ding, Kejiang Ye, Chengzhong Xu
-</div>d
+</div>
 #  Patents
 - **An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium**  
   **Shengye Song** (et al.)  
