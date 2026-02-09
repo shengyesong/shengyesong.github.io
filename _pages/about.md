@@ -25,7 +25,14 @@ I am **Shengye Song**, a **Master's Candidate** at [**SIAT**](https://www.siat.a
 My research interest includes LLM system and distributed system！
 
 
+# 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by the relevant academic conference/journal.
 
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by the relevant academic conference/journal.
+
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by the relevant academic conference/journal.
+
+- *2024.03*: &nbsp;🎉🎉 The patent application is officially approved and granted.
 # 📝 Publications 
 
 
