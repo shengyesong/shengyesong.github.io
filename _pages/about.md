@@ -26,13 +26,13 @@ My research interest includes LLM system and distributed system！
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper “C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters” is accepted by the relevant academic journal SPE.
+- *2026.02*: &nbsp;🎉🎉 Our paper “C-Koordinator: Interference-aware Management for Large-scale and Co-located Microservice Clusters” is accepted by the relevant academic journal SPE.
 
-- *2025.10*: &nbsp;🎉🎉 One paper ”TD3-Sched: Decentralized Edge-Aware Reinforcement Learning for Resource Scheduling in Cloud-Edge Collaborative Clusters“ is accepted by the relevant academic conference PDCAT 2025.
+- *2025.10*: &nbsp;🎉🎉 Our paper ”TD3-Sched: Decentralized Edge-Aware Reinforcement Learning for Resource Scheduling in Cloud-Edge Collaborative Clusters“ is accepted by the relevant academic conference PDCAT 2025.
 
 - *2025.09*: &nbsp;🎉🎉 Our paper “BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving”  is accepted by the relevant academic conference SmartData 2025.
 
-- *2024.03*: &nbsp;🎉🎉 The patent “An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium” application is officially approved and granted.
+- *2024.03*: &nbsp;🎉🎉 Our patent “An Offline Interference Elimination Method, Device, Computer Equipment, and Storage Medium” application is officially approved and granted.
 # 📝 Publications 
 
 
