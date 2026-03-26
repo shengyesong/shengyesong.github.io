@@ -18,22 +18,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am **Shengye Song**, an **incoming PhD student at Nanjing University (LANDS Group)**.  
-Currently, I am a Master's candidate at [**SIAT**](https://www.siat.ac.cn/) and [**SUSTech**](https://www.sustech.edu.cn/), China.
+I am **Shengye Song**, a **PhD student at Nanjing University (LANDS Group)**.
+
+I am advised by **Prof. Rong Gu** and **Prof. Qing Wang**.  
+Previously, I obtained my Master's degree from [**SIAT**](https://www.siat.ac.cn/) and [**SUSTech**](https://www.sustech.edu.cn/), where I worked with [**Prof. Minxian Xu**](https://www.minxianxu.info/) and [**Prof. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
 
 My research lies at the intersection of **AI systems and distributed systems**, with a focus on:
 
-- **LLM inference optimization and serving systems**
-- **Cloud-edge collaborative systems**
-- **Distributed reinforcement learning**
-- **Large-scale system performance optimization**
+- **Efficient LLM inference**
+- **Distributed systems for large-scale AI workloads**
+- **System performance optimization**
 
-I am fortunate to be supervised by [**Prof. Minxian Xu**](https://www.minxianxu.info/) and [**Prof. Kejiang Ye**](https://people.ucas.ac.cn/~kejiang).
-
-📊 My publications have received  
-<a href="https://scholar.google.com/citations?user=jK27xLQAAAAJ&hl=zh-CN">
-  <img src="https://img.shields.io/badge/Citations-1-blue">
-</a>
+I am particularly interested in building **efficient, scalable, and production-ready AI systems**.
+📊 My publications have received  <a href="https://scholar.google.com/citations?user=jK27xLQAAAAJ&hl=zh-CN">
+  <img src="https://img.shields.io/badge/Citations-1-blue"></a>
 
 ---
 
