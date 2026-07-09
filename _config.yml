@@ -23,8 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengye Song(宋盛叶)"
   avatar           : "images/photo.png"
-  bio              : "PhD Candidate@ Nanjing University"
-  location         : "Jiangsu, China"
+  bio: >
+    PhD Candidate<br>
+    School of Computer Science<br>
+    Nanjing University<br><br>
+  
+    AI Systems • LLM Inference • Distributed Systems
+  location         : "Nanjing, Jiangsu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jK27xLQAAAAJ&hl=zh-CN"
